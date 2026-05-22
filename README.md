@@ -1,11 +1,11 @@
 
-# Hi, I'm Parthasarathy — Manager, Development - Fullstack
+# Hi! 👋, I'm Parthasarathy — Manager, Development - Fullstack
 
 
 ## About me
 
-- Lead full stack engineer focused on **distributed systems** and **workflow orchestration**
-- Currently building a enterprise and banking applications
+- Full-stack Engineering Lead/ Manager, leading development teams and delivering scalable applications using micro-frontends and microservices.
+- Currently building enterprise banking applications
 - Expanding into AI/ML engineering — LLM APIs, RAG pipelines, Python
 - Preparing for FANG interviews with structured DSA practice
 - Reach me: **parthasarathysamikkannu@gmail.com**

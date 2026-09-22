@@ -7,8 +7,6 @@
 - Full-stack Engineering Lead/ Manager, leading development teams and delivering scalable applications using micro-frontends and microservices.
 - Currently building enterprise banking applications
 - Expanding into AI/ML engineering — LLM APIs, RAG pipelines, Python
-- Preparing for FANG interviews with structured DSA practice
-- Reach me: **parthasarathysamikkannu@gmail.com**
 
 ## Tech stack
 
@@ -23,9 +21,10 @@
 
 | Repo | Description |
 |------|-------------|
+| [Social Network App](https://github.com/Parthasarathy-s/social-network) | Spring Boot, PostgreSQL, Flyway |
 | [Pytorch Apps](https://github.com/Parthasarathy-s/pytorch_apps) | Pytorch Foundations |
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-parthasarathy/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:parthasarathysamikkannu@gmail.com)

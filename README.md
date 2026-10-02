@@ -23,6 +23,7 @@
 |------|-------------|
 | [Social Network App](https://github.com/Parthasarathy-s/social-network) | Spring Boot, PostgreSQL, Flyway |
 | [Pytorch Apps](https://github.com/Parthasarathy-s/pytorch_apps) | Pytorch Foundations |
+| [RAG](https://github.com/Parthasarathy-s/rag-chroma-claud) | RAG Cli app |
 
 ## Connect
 

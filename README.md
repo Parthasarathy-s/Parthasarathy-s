@@ -26,6 +26,11 @@
 | [Pytorch Apps](https://github.com/Parthasarathy-s/pytorch_apps) | Pytorch Foundations |
 | [RAG](https://github.com/Parthasarathy-s/rag-chroma-claud) | RAG Cli app |
 
+## Certifications
+| Institution | URL |
+|-------------|-----|
+| Anthropic | https://www.credly.com/badges/b6c1c05a-f160-4429-a9e7-d66f6d6a6387/public_url |
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-parthasarathy/)

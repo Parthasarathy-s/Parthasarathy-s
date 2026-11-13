@@ -30,6 +30,7 @@
 | Institution | URL |
 |-------------|-----|
 | Anthropic | https://www.credly.com/badges/b6c1c05a-f160-4429-a9e7-d66f6d6a6387/public_url |
+| Microsoft | https://learn.microsoft.com/en-gb/users/parthasarathys-6424/credentials/f5995a0e42aa1950 |
 
 ## Connect
 
